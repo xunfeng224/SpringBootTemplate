@@ -52,13 +52,3 @@ redis:7.0.11
    docker-compose up -d
    ```
 
-## TODO
-1.日志系统log4j2
-
-2.日志切面持久化
-
-3.二级缓存
-
-4.webSocket
-
-5.mysql,redis docker-compose文件,用于一键部署
